@@ -1,0 +1,1 @@
+Klasická hra Snake nebo Vlak v jednoduchém grafickém provedení na základě Turtle v Pythonu kde jsou řešeny kolize a sběr dílků, které se připojí na konec hada a nárazy do stěn, čímž se hra restartuje. 
